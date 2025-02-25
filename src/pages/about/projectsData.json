@@ -1,0 +1,1161 @@
+{
+  "projects": [
+    {
+      "sr": "1",
+      "prj": "Arocon Real Estate Private Limited, Ghaziabad",
+      "bank": "Bank of Baroda",
+      "cost": "59.75"
+    },
+    {
+      "sr": "2",
+      "prj": "Gaur Sons Promoters Private Limited, Greater Noida",
+      "bank": "Bank of Baroda (Northern  Zone)",
+      "cost": "1281.41"
+    },
+    {
+      "sr": "3",
+      "prj": "Prateek Realtors India Private Limited, Ghaziabad",
+      "bank": "Bank of Baroda",
+      "cost": "1,130.19"
+    },
+    {
+      "sr": "4",
+      "prj": "Saya Buildcon Consortium Private Limited, Greater Noida.",
+      "bank": "Bank of Baroda",
+      "cost": "367.84"
+    },
+    {
+      "sr": "5",
+      "prj": "Goldenline Infrastructure Private Limited, Ajmer, Raj.",
+      "bank": "Bank of Baroda",
+      "cost": "91.52"
+    },
+    {
+      "sr": "6",
+      "prj": "New Ways Homes Private Limited, Greater Noida",
+      "bank": "Bank of Baroda",
+      "cost": "456.84"
+    },
+    {
+      "sr": "7",
+      "prj": "DBF Infrastructure Private Limited, Ghaziabad",
+      "bank": "Bank of Baroda",
+      "cost": "46"
+    },
+    {
+      "sr": "8",
+      "prj": "Gaursons Hi- Tech Infrastructure Private Limited, Greater Noida",
+      "bank": "Bank of Baroda",
+      "cost": "1,123.57"
+    },
+    {
+      "sr": "9",
+      "prj": "Bankey Bihari Infrahomes Private Limited,  Ghaziabad",
+      "bank": "Bank of Baroda",
+      "cost": "112.43"
+    },
+    {
+      "sr": "10",
+      "prj": "Golden Peacock Residence Private Limited,  Gurgaon",
+      "bank": "Bank of Baroda",
+      "cost": "339.51"
+    },
+    {
+      "sr": "11",
+      "prj": "U P Township Infrastructure Private Limited, Greater Noida",
+      "bank": "Bank of Baroda (Northern  Zone)",
+      "cost": "498"
+    },
+    {
+      "sr": "12",
+      "prj": "Greatvalue Projects India Limited, Greater Noida",
+      "bank": "Bank of Baroda ",
+      "cost": "469.04"
+    },
+    {
+      "sr": "13",
+      "prj": "M2M Buildtech Private Limited, Rohtak, Haryana",
+      "bank": "Bank of Baroda",
+      "cost": "68.65"
+    },
+    {
+      "sr": "14",
+      "prj": "Vasu Infrastructure Private Limited, Ghaziabad",
+      "bank": "Bank of Baroda (Northern  Zone)",
+      "cost": "242"
+    },
+    {
+      "sr": "15",
+      "prj": "Keltech Infrastructure Limited, Ghaziabad",
+      "bank": "Bank of Baroda",
+      "cost": "25.27"
+    },
+    {
+      "sr": "16",
+      "prj": "Newtech Shelters Private Limited, Ghaziabad",
+      "bank": "Bank of Baroda (Northern  Zone)",
+      "cost": "41.83"
+    },
+    {
+      "sr": "17",
+      "prj": "Urban Land Management Private Limited, Gurgaon",
+      "bank": "Bank of Baroda (Northern  Zone)",
+      "cost": "246.3"
+    },
+    {
+      "sr": "18",
+      "prj": "Sun World Residency Private Limited, Noida",
+      "bank": "Bank of Baroda",
+      "cost": "476"
+    },
+    {
+      "sr": "19",
+      "prj": "Aadinath Probuild (India) Private Limited, Ghaziabad",
+      "bank": "Bank of Baroda",
+      "cost": "90.93"
+    },
+    {
+      "sr": "20",
+      "prj": "Ansal Properties & Infrastructure Limited",
+      "bank": "Hardicon Limited",
+      "cost": "660.34"
+    },
+    {
+      "sr": "21",
+      "prj": "Aryan Enterprise ",
+      "bank": "Bank of Baroda (Surat Zone)",
+      "cost": "3.42"
+    }
+  ],
+  "hospitality": [
+    {
+      "sr": "1",
+      "prj": "AHR City Project Private Limited, Baddi",
+      "bank": "Bank of Baroda",
+      "cost": "11.74"
+    },
+    {
+      "sr": "2",
+      "prj": "Amritsar Health and Hospitality Services, Amritsar",
+      "bank": "Bank of Baroda",
+      "cost": "13.3"
+    },
+    {
+      "sr": "3",
+      "prj": "Seven Star Hotel & Resorts Private Limited, Delhi",
+      "bank": "Bank of Baroda",
+      "cost": "24.75"
+    },
+    {
+      "sr": "4",
+      "prj": "Bhagat Forge Limited, Ludhiana",
+      "bank": "Bank of Baroda",
+      "cost": "21.69"
+    },
+    {
+      "sr": "5",
+      "prj": "M K Hotels, Bahadurgarh (Haryana)",
+      "bank": "Bank of Baroda (Northern  Zone)",
+      "cost": "10.73"
+    },
+    {
+      "sr": "6",
+      "prj": "NCR Healthways Private Limited, Sonepat",
+      "bank": "Bank of Baroda (Northern  Zone)",
+      "cost": "22.55"
+    },
+    {
+      "sr": "7",
+      "prj": "Wonder Hospital Private Limited",
+      "bank": "Bank of Baroda (Northern  Zone)",
+      "cost": "30"
+    },
+    {
+      "sr": "8",
+      "prj": "M/s. Mariton Hoteliers Private Limited",
+      "bank": "Bank of Baroda",
+      "cost": "35.35"
+    },
+    {
+      "sr": "9",
+      "prj": "Prudent Nursing Home",
+      "bank": "Bank of Baroda (Northern  Zone)",
+      "cost": "12.61"
+    }
+  ],
+  "manufacture": [
+    {
+      "sr": "1",
+      "prj": "Jagdambe Exports Private Limited, Ludhiana",
+      "type": "Garments Manufacturing Unit",
+      "bank": "Bank of Baroda",
+      "cost": "11.47"
+    },
+    {
+      "sr": "2",
+      "prj": "Bija Foods Private Limited, Uttrakhand",
+      "type": "Vegetable & Fruit Processing Plant",
+      "bank": "Bank of Baroda",
+      "cost": "10.56"
+    },
+    {
+      "sr": "3",
+      "prj": "Virgo Graces Laboratory, Himachal Pradesh",
+      "type": "Aluminium Extruded Products Manufacturing Unit",
+      "bank": "Bank of Baroda",
+      "cost": "8.4"
+    },
+    {
+      "sr": "4",
+      "prj": "Bhagat Forge Limited, Ludhiana",
+      "type": "Cam Shafts manufacturing Unit",
+      "bank": "Bank of Baroda",
+      "cost": "21.69"
+    },
+    {
+      "sr": "5",
+      "prj": "Modulus Cosmetics, Una (Himachal Pradesh)",
+      "type": "Soaps Manufacturing Unit",
+      "bank": "Bank of Baroda",
+      "cost": "11.95"
+    },
+    {
+      "sr": "6",
+      "prj": "Punjab Paper Mills Limited, Ludhiana",
+      "type": "Kraft Papers Manufacturing Unit",
+      "bank": "Punjab National Bank",
+      "cost": "7.39"
+    },
+    {
+      "sr": "7",
+      "prj": "Nexgen Fluoropolymers Private Limited, Neemrana ",
+      "type": "PTFE Products Manufacturing Unit",
+      "bank": "Bank of Baroda",
+      "cost": "6.65"
+    },
+    {
+      "sr": "8",
+      "prj": "Kay International Limited, Kundli",
+      "type": "Manufacturing of Compressor / Blowers",
+      "bank": "Bank of Baroda",
+      "cost": "29.56"
+    },
+    {
+      "sr": "9",
+      "prj": "B&H Texfab Private Limited, Ludhiana",
+      "type": "Hosiery Knitwear Items",
+      "bank": "Bank of Baroda",
+      "cost": "5"
+    },
+
+    {
+      "sr": "10",
+      "prj": "Ketan Ribbons Private Limited, Sonepat",
+      "type": "PVC Leather Clothes Manufacturing Unit",
+      "bank": "Bank of Baroda",
+      "cost": "7.03"
+    },
+    {
+      "sr": "11",
+      "prj": "RS Infra Projects Private Limited, Noida",
+      "type": "Manufacture of electrical transmission & microwave towers",
+      "bank": "Bank of Baroda",
+      "cost": "18.88"
+    },
+    {
+      "sr": "12",
+      "prj": "Sunway Infrastructure Services Limited, Noida",
+      "type": "supplier of construction equipments",
+      "bank": "Bank of Baroda",
+      "cost": "13.71"
+    },
+    {
+      "sr": "13",
+      "prj": "Cygnus Splendid, Roorkee",
+      "type": "Manufacturing Unit of Non Woven Fabric",
+      "bank": "Bank of Baroda",
+      "cost": "17.7"
+    },
+    {
+      "sr": "14",
+      "prj": "Hunt Formwork Services Limited, Delhi",
+      "type": "Setting up of Formwork Assembly Facility",
+      "bank": "Bank of Baroda",
+      "cost": "5.74"
+    },
+    {
+      "sr": "15",
+      "prj": "Ganga Ferroalloys Private Limited, Bhiwadi",
+      "type": "Steel Processing Unit",
+      "bank": "Bank of Baroda",
+      "cost": "12.84"
+    },
+    {
+      "sr": "16",
+      "prj": "Himalaya Pharmaceuticals Private Limited, Punjab",
+      "type": "manufacturing of bio-fertilizers unit",
+      "bank": "Bank of Baroda (Northern  Zone)",
+      "cost": "10.9"
+    },
+    {
+      "sr": "17",
+      "prj": "NTF (India) Private Limited, Gurgaon",
+      "type": "Auto Ancillary Manufacturing Unit",
+      "bank": "Bank of Baroda (Northern  Zone)",
+      "cost": "29"
+    },
+    {
+      "sr": "18",
+      "prj": "Surya Boards Limited, Jhajjar, Haryana",
+      "type": "Plywood Manufacturing Unit",
+      "bank": "Bank of Baroda",
+      "cost": "23.16"
+    },
+    {
+      "sr": "19",
+      "prj": "Delite Hi- Tech Furniture Industries Private Limited, Bhiwadi",
+      "type": "Furniture Manufacturing Unit",
+      "bank": "Bank of Baroda",
+      "cost": "15.75"
+    },
+    {
+      "sr": "20",
+      "prj": "Vipul Vidhyut Private Limited, Mahasumand, Chhatisgarh",
+      "type": "Solar Power Project",
+      "bank": "Bank of Baroda",
+      "cost": "32.2"
+    },
+    {
+      "sr": "21",
+      "prj": "Safe & Fresh Foods,  Samba, Jammu",
+      "type": "Cold Chain Project",
+      "bank": "Bank of Baroda",
+      "cost": "20.54"
+    },
+    {
+      "sr": "22",
+      "prj": "Haryana Strips Private Limited, Hissar, Haryana",
+      "type": "Steel Manufacturing Unit",
+      "bank": "Bank of Baroda",
+      "cost": "22.63"
+    },
+    {
+      "sr": "23",
+      "prj": "Ujala Stainless Private Limited, Sonepat",
+      "type": "Manufacturing unit of Cold rolled stainless steel circles, sheets and semi finished utensils",
+      "bank": "Bank of Baroda",
+      "cost": "22.06"
+    },
+    {
+      "sr": "24",
+      "prj": "Rama Paper Mills Limited, Kiratpur (Bijnaur)",
+      "type": "Papers Manufacturing Unit",
+      "bank": "Bank of Baroda",
+      "cost": "11.25"
+    },
+    {
+      "sr": "25",
+      "prj": "Ajanta Gartex Processors Private Limited, Ghaziabad",
+      "type": "Textile And Garment Dyeing & Processing Unit",
+      "bank": "Bank of Baroda",
+      "cost": "11.64"
+    },
+    {
+      "sr": "26",
+      "prj": "Parmar Thermopack Private Limited, Alwar, Rajasthan",
+      "type": "EPS Packaging and Thermal Insulation Unit",
+      "bank": "Bank of Baroda",
+      "cost": "15.25"
+    },
+    {
+      "sr": "27",
+      "prj": "Advantage Organic Natural Technologies Private Limited, Solan, H.P.",
+      "type": "Garment Dyeing Industry",
+      "bank": "Bank of Baroda",
+      "cost": "16.52"
+    },
+    {
+      "sr": "28",
+      "prj": "Smt. Murti Devi Charitable Trust, Gurgaon",
+      "type": "Education Industry",
+      "bank": "Bank of Baroda",
+      "cost": "14.55"
+    },
+    {
+      "sr": "29",
+      "prj": "SMC Power Generation Limited, Jharsugunda",
+      "type": "Steel Manufacturing Unit",
+      "bank": "Bank of Baroda",
+      "cost": "400"
+    },
+    {
+      "sr": "30",
+      "prj": "Prudent Spa & Resorts Private  Limited",
+      "type": "Spa and Resort Unit",
+      "bank": "Bank of Baroda",
+      "cost": "23.81"
+    },
+    {
+      "sr": "31",
+      "prj": "Uttarakhand Krishi Utpadan Vipnan Board  ",
+      "type": "Food Processing Unit",
+      "bank": "Bank of Baroda (Bareilly Zone)",
+      "cost": "23.42"
+    },
+    {
+      "sr": "32",
+      "prj": "G. O. Polymers Private Limited",
+      "type": "Manufacturing and selling  of PP/ Fabric / woven Bags, Leno- Mesh- Bags/ Plain Fabric",
+      "bank": "Bank of Baroda (Bareilly Zone)",
+      "cost": "9.59"
+    },
+    {
+      "sr": "33",
+      "prj": "NTF (India) Private Limited",
+      "type": "Auto Ancillary Manufacturing Unit",
+      "bank": "Bank of Baroda (Northern  Zone)",
+      "cost": "20.61"
+    },
+    {
+      "sr": "34",
+      "prj": "Suraj Dyeing & Printing Limited",
+      "type": "Dyeing and Printing Mills",
+      "bank": "Bank of Baroda (Surat Zone)",
+      "cost": "17.55"
+    },
+    {
+      "sr": "35",
+      "prj": "Kelvin Natural Mint Private Limited",
+      "type": "manufacturing Menthol crystal, Peppermint Oil and other derivatives of Menthol",
+      "bank": "Bank of Baroda (Bareilly Zone)",
+      "cost": "16.64"
+    },
+    {
+      "sr": "36",
+      "prj": "Jal Aqua International, Gujarat",
+      "type": "Installation of Hypochlorite Calcium Chemical Industry",
+      "bank": "Bank of Baroda (Surat Zone)",
+      "cost": "71.05"
+    },
+    {
+      "sr": "37",
+      "prj": "Dev Bhumi Cold Chain Private Limited, Delhi",
+      "type": "Controlled Atmosphere Project for Fruits Storage",
+      "bank": "Bank of Baroda",
+      "cost": "19.04"
+    },
+    {
+      "sr": "38",
+      "prj": "Anmol Global",
+      "type": "Installation of Non-woven Interlining Industry",
+      "bank": "Bank of Baroda (Surat Zone)",
+      "cost": "11.71"
+    },
+    {
+      "sr": "39",
+      "prj": "SMC Power Generation Limited, Jharsugunda",
+      "type": "TEV Report on takeover of Concast Steel and Power Limited",
+      "bank": "Yes Bank Limited",
+      "cost": "800"
+    },
+    {
+      "sr": "40",
+      "prj": "S. A. Snacks Private Limited",
+      "type": "Installation of Snacks Manufacturing Industry",
+      "bank": "Bank of Baroda (Surat Zone)",
+      "cost": "13.7"
+    },
+    {
+      "sr": "41",
+      "prj": "Indian Aromatics",
+      "type": "Manufacturing Unit For Menthol Crystal / Peppermint Oil",
+      "bank": "Bank of Baroda",
+      "cost": "12.11"
+    }
+  ],
+  "LiePrj": [
+    {
+      "sr": "1",
+      "prj": "NTF India Private Limited",
+      "type": "Auto Ancillary Unit",
+      "bank": "Bank of Baroda (Northern  Zone)",
+      "cost": "120"
+    },
+    {
+      "sr": "2",
+      "prj": "Newtech Shelters Private Limited",
+      "type": "Commercial Project",
+      "bank": "Bank of Baroda",
+      "cost": "50.86"
+    },
+    {
+      "sr": "3",
+      "prj": "Dev Bhoomi Cold Chain",
+      "type": "Controlled Atmosphere Project for Fruits Storage",
+      "bank": "Bank of Baroda",
+      "cost": "23"
+    },
+    {
+      "sr": "4",
+      "prj": "GD Goenka University",
+      "type": "Educational University",
+      "bank": "Bank of Baroda",
+      "cost": "185"
+    },
+    {
+      "sr": "5",
+      "prj": "NCR Healthways Private Limited",
+      "type": "Hospital Project",
+      "bank": "Bank of Baroda",
+      "cost": "22.55"
+    },
+    {
+      "sr": "6",
+      "prj": "Bryz Hotels Private Limited",
+      "type": "Hotel Project",
+      "bank": "Bank of Baroda",
+      "cost": "60.45"
+    },
+    {
+      "sr": "7",
+      "prj": "Rathi Steel & Power Limited",
+      "type": "Integrated Steel & Power Plant",
+      "bank": "Bank of Baroda",
+      "cost": "250"
+    },
+    {
+      "sr": "8",
+      "prj": "SMC Power Generation Limited, Jhasugudha, Orissa.",
+      "type": "Integrated Steel Plant",
+      "bank": "Bank of Baroda",
+      "cost": "190"
+    },
+    {
+      "sr": "9",
+      "prj": "Malhotra Rubbers Limited",
+      "type": "Manufacturing of OTR Tires",
+      "bank": "Bank of Baroda",
+      "cost": "19.07"
+    },
+    {
+      "sr": "10",
+      "prj": "Balaji Action Buildwell, Sitarganj, Uttrakhand",
+      "type": "Manufacturing Unit",
+      "bank": "ICICI Bank",
+      "cost": "270"
+    },
+    {
+      "sr": "11",
+      "prj": "Creamy Foods Limited, Bulandshahr",
+      "type": "Milk Processing Unit",
+      "bank": "PNB",
+      "cost": "60"
+    },
+    {
+      "bank": "Bank of Baroda"
+    },
+    {
+      "sr": "12",
+      "prj": "Our Company Infrastructure Private Limited",
+      "type": "Presidium School project",
+      "bank": "Bank of Baroda",
+      "cost": "72.96"
+    },
+    {
+      "sr": "13",
+      "prj": "Gaursons Promoters Private Limited – New Delhi.",
+      "type": "Residential Project",
+      "bank": "Bank of Baroda",
+      "cost": "1263"
+    },
+    {
+      "sr": "14",
+      "prj": "Gaursons Realty Private Limited New. Delhi",
+      "type": "Residential Project",
+      "bank": "Bank of Baroda",
+      "cost": "878.21"
+    },
+    {
+      "sr": "15",
+      "prj": "Saya Buildcon Consortium Private Limited",
+      "type": "Residential Project",
+      "bank": "Bank of Baroda",
+      "cost": "367.84"
+    },
+    {
+      "sr": "16",
+      "prj": "Keltech Infrastructure Limited",
+      "type": "Residential Project",
+      "bank": "Bank of Baroda",
+      "cost": "32.31"
+    },
+    {
+      "sr": "17",
+      "prj": "R-Tech Housing Private Limited",
+      "type": "Residential Project",
+      "bank": "Bank of Baroda",
+      "cost": "231.52"
+    },
+    {
+      "sr": "18",
+      "prj": "New Ways Homes Private Limited",
+      "type": "Residential Project",
+      "bank": "Bank of Baroda",
+      "cost": "456.84"
+    },
+    {
+      "sr": "19",
+      "prj": "Vasu Infrastructure Private Limited",
+      "type": "Residential Project",
+      "bank": "Bank of Baroda",
+      "cost": "242"
+    },
+    {
+      "sr": "20",
+      "prj": "Arocon Real Estate Private Limited",
+      "type": "Residential Project",
+      "bank": "Bank of Baroda",
+      "cost": "59.75"
+    },
+    {
+      "sr": "21",
+      "prj": "Prateek Realtors India Private Limited",
+      "type": "Residential Project",
+      "bank": "Bank of Baroda",
+      "cost": "1,130.19"
+    },
+    {
+      "sr": "22",
+      "prj": "U P Township Infrastructure Private Limited",
+      "type": "Residential Project",
+      "bank": "Bank of Baroda",
+      "cost": "498"
+    },
+    {
+      "sr": "23",
+      "prj": "CHD Developers Limited, Gurugram",
+      "type": "Residential Project",
+      "bank": "Bank of Baroda",
+      "cost": "140"
+    },
+    {
+      "sr": "24",
+      "prj": "Dhoot Infrastructure Projects Limited, Gurugram.",
+      "type": "Residential Project",
+      "bank": "Bank of Baroda",
+      "cost": "156.4"
+    },
+    {
+      "sr": "25",
+      "prj": "Gaursons Hi-tech Infrastructure  Private Limited, Gautam Budh Nagar, U.P.",
+      "type": "Residential Project",
+      "bank": "Bank of Baroda",
+      "cost": "1,123.00"
+    },
+    {
+      "sr": "26",
+      "prj": "Urban Land Management Private Limited, Rewari, Haryana.",
+      "type": "Residential Project",
+      "bank": "Bank of Baroda",
+      "cost": "237.6"
+    },
+    {
+      "sr": "27",
+      "prj": "Goldenline Infrastructure Private Limited, Ajmer, Rajasthan",
+      "type": "Residential Project",
+      "bank": "Bank of Baroda",
+      "cost": "91.52"
+    },
+    {
+      "sr": "28",
+      "prj": "Amarpali Group, Noida",
+      "type": "Residential Project",
+      "bank": "Bank of Baroda",
+      "cost": "501.24"
+    },
+    {
+      "sr": "29",
+      "prj": "Vipul Vidhyut Private Limited, Jharsuguda.",
+      "type": "Setting up of Solar PC Project",
+      "bank": "Bank of Baroda",
+      "cost": "32.2"
+    },
+    {
+      "sr": "30",
+      "prj": "Haryana City Gas Distribution (Bhiwadi) Limited",
+      "type": "CNG And PNG Gas Distribution Network",
+      "bank": "Punjab National Bank",
+      "cost": "30.91"
+    },
+    {
+      "sr": "31",
+      "prj": "Sanskriti Society Of Education Research & Development",
+      "type": "Educational University",
+      "bank": "Punjab National Bank",
+      "cost": "18"
+    },
+    {
+      "sr": "32",
+      "prj": "Shree Ganesh Residency LLP, Jhansi",
+      "type": "Residential Project",
+      "bank": "Punjab National Bank",
+      "cost": "51.04"
+    },
+    {
+      "sr": "33",
+      "prj": "Orbit Resorts Limited",
+      "type": "Solar Power Plant",
+      "bank": "Punjab National Bank",
+      "cost": "34"
+    },
+    {
+      "sr": "34",
+      "prj": "Jaidayal Hitex Private Limited",
+      "type": "Manufacturing of Technical textile for packaging Unit",
+      "bank": "Punjab National Bank",
+      "cost": "32.85"
+    },
+    {
+      "sr": "35",
+      "prj": "Dhampur Sugar Mills Limited, Uttar Pradesh",
+      "type": "Production of alcohol/fuel ethanol, ethyl acetate, liquid carbon dioxide, liquid bio-fertilisers, bio-fertilisers, sugar, generation of renewable power etc.",
+      "bank": "Punjab National Bank",
+      "cost": "65.68"
+    },
+    {
+      "sr": "36",
+      "prj": "Special Ceramics Private Limited",
+      "type": "manufacturing refractory bricks and monolithic.",
+      "bank": "Punjab National Bank",
+      "cost": "4.85"
+    },
+    {
+      "sr": "37",
+      "prj": "Jal Aqua International",
+      "type": "Installation of Hypochlorite Calcium Chemical Industry",
+      "bank": "Bank of Baroda",
+      "cost": "71.05"
+    },
+    {
+      "sr": "38",
+      "prj": "Gupta Builders and Promoters Private Limited",
+      "type": "Residential Project",
+      "bank": "Bank of Baroda",
+      "cost": "205.07"
+    },
+    {
+      "sr": "39",
+      "prj": "Navkar Plastic",
+      "type": "Manufacturing biodegradable garbage bag",
+      "bank": "Punjab National Bank",
+      "cost": "3.03"
+    },
+    {
+      "sr": "40",
+      "prj": "Nextgen Textile Park Private Limited",
+      "type": "Integrated Textile Park",
+      "bank": "Vijaya Bank (Now Bank of Baroda)",
+      "cost": "21.72"
+    },
+    {
+      "sr": "41",
+      "prj": "Teerthankar Mahaveer Institute of Management Technology (A College under Teerthankar Mahaveer University)",
+      "type": "Educational University",
+      "bank": "Punjab National Bank",
+      "cost": "3.77"
+    }
+  ],
+  "valuation": [
+    {
+      "sr": "1",
+      "prj": "M/s. Shri Krishna Vanaspati Industries Private Limited, Uttarakhand",
+      "type": "Plant & Machinery",
+      "bank": "Bank of Baroda",
+      "cost": "951.16"
+    },
+    {
+      "sr": "2",
+      "prj": "Ind Synergy Limited, Chhattisgarh.",
+      "type": "Plant & Machinery.",
+      "bank": "Punjab National Bank",
+      "cost": "31,510.00"
+    },
+    {
+      "sr": "3",
+      "prj": "Murli Industries Limited, Maharashtra",
+      "type": "Land & Building and Plant & Machinery.",
+      "bank": "Punjab National Bank",
+      "cost": "1,569.00"
+    },
+    {
+      "sr": "4",
+      "prj": "M/s. Barmalt (India) Private Limited",
+      "type": "Land & Building",
+      "bank": "Bank of Baroda",
+      "cost": "6,264.00"
+    },
+    {
+      "sr": "5",
+      "prj": "M/s. Rathi Steel and Power Limited, Sambalpur (Orissa) & Ghaziabad (U.P.)",
+      "type": "All Fixed Assets",
+      "bank": "Bank of Baroda",
+      "cost": "17,071.56"
+    },
+    {
+      "sr": "6",
+      "prj": "M/s. T T Limited",
+      "type": "Plant and Machineries",
+      "bank": "Oriental Bank of Commerce",
+      "cost": "2,061.00"
+    },
+    {
+      "sr": "7",
+      "prj": "M/s. Surya Boards Limited",
+      "type": "All Fixed Assets",
+      "bank": "Bank of Baroda",
+      "cost": "700 .00 "
+    },
+    {
+      "sr": "8",
+      "prj": "M/s. Himalaya Pharmaceuticals Limited, Punjab",
+      "type": "Plant & Machinery.",
+      "bank": "Oriental Bank of Commerce",
+      "cost": "15.6"
+    },
+    {
+      "sr": "9",
+      "prj": "M/s. Hi tech Pipes Limited, Delhi",
+      "type": "Land & Building",
+      "bank": "State Bank of India",
+      "cost": "55.76"
+    },
+    {
+      "sr": "10",
+      "prj": "M/s. India Fasteners, Ghaziabad",
+      "type": "Land & Building",
+      "bank": "Oriental Bank of Commerce",
+      "cost": "224.89"
+    },
+    {
+      "sr": "11",
+      "prj": "M/s. ATR Construction Private Limited, Ghaziabad.",
+      "type": "Land & Building",
+      "bank": "Oriental Bank of Commerce",
+      "cost": "1045.09"
+    },
+    {
+      "sr": "12",
+      "prj": "M/s Taiyo India Private Limited",
+      "type": "Plant and Machinery",
+      "bank": "-",
+      "cost": "4240.79"
+    },
+    {
+      "sr": "13",
+      "prj": "M/s Vishnurupa Developers Private Limited, Amritsar",
+      "type": "Land",
+      "bank": "STCI Finance Limited",
+      "cost": "2244.69"
+    },
+    {
+      "sr": "14",
+      "prj": "M/s SPML Industries Limited, Faridabad   ",
+      "type": "Land & Building",
+      "bank": "HARDICON Limited",
+      "cost": "4365.5"
+    },
+    {
+      "sr": "15",
+      "prj": "M/s Girnar Paper & Pulp",
+      "type": "Land & Building",
+      "bank": "Oriental Bank of Commerce",
+      "cost": "171.58"
+    },
+    {
+      "sr": "16",
+      "prj": "M/S. Takahata Precision India Private Limited, Neemrana, Rajasthan",
+      "type": "Plant and Machineries ",
+      "bank": "-",
+      "cost": "5549.93"
+    },
+    {
+      "sr": "17",
+      "prj": "Ms/ Subhash Projects Marketing Limited, Sawai Madhopur, Rajasthan",
+      "type": "Land & Building",
+      "bank": "HARDICON Limited",
+      "cost": "691.35"
+    },
+    {
+      "sr": "18",
+      "prj": "Unitech Limited, Kancheepuram",
+      "type": "Land",
+      "bank": "HARDICON Limited",
+      "cost": "14.7"
+    },
+    {
+      "sr": "19",
+      "prj": "Unitech Limited, Mehasana",
+      "type": "Land",
+      "bank": "HARDICON Limited",
+      "cost": "59.07"
+    },
+    {
+      "sr": "20",
+      "prj": "M/s Mela Ram Om Prakash Bedi and Sons Estates Private Limited",
+      "type": "Land & Building",
+      "bank": "Bank of India",
+      "cost": "1080.96"
+    },
+    {
+      "sr": "21",
+      "prj": "M/s. Athena Demwe Power Limited, Lohit, Arunachal Pradesh",
+      "type": "All Fixed Assets",
+      "bank": "HARDICON Limited",
+      "cost": "41768.8"
+    },
+    {
+      "sr": "22",
+      "prj": "Mr. S. Vishwanathan, Delhi",
+      "type": "Residential Building",
+      "bank": "Bank of Baroda",
+      "cost": "42"
+    },
+    {
+      "sr": "23",
+      "prj": "Mrs. Neeta Jain",
+      "type": "Residential Building",
+      "bank": "Bank of Baroda",
+      "cost": "2594.08"
+    },
+    {
+      "sr": "24",
+      "prj": "Neo Shipra Sun City,,      Ghaziabad",
+      "type": "Residential Building",
+      "bank": "Bank of India",
+      "cost": "54"
+    },
+    {
+      "sr": "25",
+      "prj": "Mr. Irshad, Jewer",
+      "type": "Residential Building",
+      "bank": "Canara Bank",
+      "cost": "160"
+    },
+    {
+      "sr": "26",
+      "prj": "Mr. Rajender Kumar Jain, Delhi",
+      "type": "Land & Building",
+      "bank": "Oriental Bank of Commerce",
+      "cost": "57.76"
+    },
+    {
+      "sr": "27",
+      "prj": "M/S. Gama Infraprop Private Limited, New Delhi",
+      "type": "Plant and Machineries & Other Assets",
+      "bank": "Bank of Baroda",
+      "cost": "80603"
+    },
+    {
+      "sr": "28",
+      "prj": "M/s Laxmi Precision Screw Limited",
+      "type": "Land & Building",
+      "bank": "HARDICON Limited",
+      "cost": "2948"
+    },
+    {
+      "sr": "29",
+      "prj": "Mrs. Kuldeep Kaur, Noida",
+      "type": "Land & Building",
+      "bank": "-",
+      "cost": "447.24"
+    },
+    {
+      "sr": "30",
+      "prj": "M/S. Napino Continental Vehicle Electronics Private  Limited, Manesar",
+      "type": "Plant and Machineries",
+      "bank": "-",
+      "cost": "528.03"
+    },
+    {
+      "sr": "31",
+      "prj": "M/S. Satia Industries Limited",
+      "type": "Plant and Machineries",
+      "bank": "-",
+      "cost": "849.18"
+    },
+    {
+      "sr": "32",
+      "prj": "Mrs. Rajni Gupta, Gurugram",
+      "type": "Land & Building",
+      "bank": "-",
+      "cost": "185.68"
+    },
+    {
+      "sr": "33",
+      "prj": "Mr. Pradeep Garg, Ghaziabad",
+      "type": "Land & Building",
+      "bank": "Oriental Bank of Commerce",
+      "cost": "526.16"
+    },
+    {
+      "sr": "34",
+      "prj": "Vishvakarma Hostel, Ghaziabad",
+      "type": "Land & Building",
+      "bank": "Oriental Bank of Commerce",
+      "cost": "679.06"
+    },
+    {
+      "sr": "35",
+      "prj": "Gaur Velerio owner Kanchan Miglani",
+      "type": "Land & Building",
+      "bank": "Bank of Baroda",
+      "cost": "96"
+    },
+    {
+      "sr": "36",
+      "prj": "East India Udyog Limited",
+      "type": "Land & Building ",
+      "cost": "10,534"
+    }
+  ],
+  "trunkey": [
+    {
+      "sr": "1",
+      "borrower": "Dynamic Laminates (P) Limited ",
+      "ins": "HPMIDC & HPFC ",
+      "prj": "Industrial Laminates "
+    },
+    {
+      "sr": "2",
+      "borrower": "Progressive Paper and Board Mills (P) Limited ",
+      "ins": "PSIDC & PFC",
+      "prj": "Decorative and Industrial Laminates"
+    },
+    {
+      "sr": "3",
+      "borrower": "Leelason Breweries Limited ",
+      "ins": "Aurangabad",
+      "prj": "Brewery"
+    },
+    {
+      "sr": "4",
+      "borrower": "IV Fluid Plant",
+      "ins": "Srinagar"
+    },
+    {
+      "sr": "5",
+      "borrower": "Shaw Wallace",
+      "ins": "Uran",
+      "prj": "Brewery"
+    },
+    {
+      "sr": "6",
+      "borrower": "Church Gate",
+      "ins": "Nigeria",
+      "prj": "Brewery"
+    },
+    {
+      "sr": "7",
+      "borrower": "U B Group",
+      "ins": "Aurangabad",
+      "prj": "Brewery"
+    },
+    {
+      "sr": "8",
+      "borrower": "Kushal International Limited",
+      "ins": "Saharnpur",
+      "prj": "Food Park"
+    }
+  ],
+  "progressReport": [
+    {
+      "sr": "1",
+      "borrower": "Navratan Pipes & Profiles Limited",
+      "ins": "Industrial Pipes & Profiles",
+      "bank": "Bank of Baroda"
+    },
+    {
+      "sr": "2",
+      "borrower": "Cygnus Splendid",
+      "ins": "Mfg. of Non-woven cloth",
+      "bank": "Bank of Baroda"
+    },
+    {
+      "sr": "3",
+      "borrower": "Saya Buildcon Consortium Private Limited",
+      "ins": "Residential Project",
+      "bank": "Bank of Baroda"
+    },
+    {
+      "sr": "4",
+      "borrower": "Gaursons Hi-Tech Infrastructure Private Limited ",
+      "ins": "Residential Project",
+      "bank": "Bank of Baroda"
+    },
+    {
+      "sr": "5",
+      "borrower": "BRYS Hotels Private Limited",
+      "ins": "Hotels",
+      "bank": "Bank of Baroda"
+    },
+    {
+      "sr": "6",
+      "borrower": "Aarya Organic Food and Ayurvedic Industries (P.) Limited",
+      "ins": "Food Industry",
+      "bank": "Bank of Baroda"
+    },
+    {
+      "sr": "7",
+      "borrower": "SR Overseas",
+      "ins": "Textile Industry",
+      "bank": "Bank of Baroda"
+    },
+    {
+      "sr": "8",
+      "borrower": "R-Tech Housing Private Limited",
+      "ins": "Residential Project",
+      "bank": "Bank of Baroda"
+    },
+    {
+      "sr": "9",
+      "borrower": "Khurana Blankets Private Limited",
+      "ins": "Manufacturing Mink Blankets",
+      "bank": "Bank of Baroda"
+    },
+    {
+      "sr": "10",
+      "borrower": "R.S. Infraprojects Private Limited",
+      "ins": "Manufacturing of Electrical Transmission & Microwave Towers",
+      "bank": "Bank of Baroda"
+    },
+    {
+      "sr": "11",
+      "borrower": "Wanfuda Instrument India Private Limited, Delhi",
+      "bank": "Office of The Principal Commissioner of Customs (Import)"
+    },
+    {
+      "sr": "12",
+      "borrower": "Creamy Foods Limited",
+      "ins": "Milk Processing Unit",
+      "bank": "Punjab National Bank"
+    },
+    {
+      "sr": "13",
+      "borrower": "Soothe Healthcare P Limited",
+      "ins": "Healthcare ",
+      "bank": "Bank of Baroda"
+    },
+    {
+      "sr": "14",
+      "borrower": "Patanjali Ayurved Limited (Sonipat Unit) ",
+      "ins": "Healthcare",
+      "bank": "Bank of Baroda"
+    },
+    {
+      "sr": "15",
+      "borrower": "Patanjali Ayurved Limited (Newasa Unit) ",
+      "ins": "Healthcare",
+      "bank": "Bank of Baroda"
+    }
+  ]
+}

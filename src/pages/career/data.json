@@ -1,0 +1,18 @@
+{
+  "Jobs": [
+    {
+      "position_title": "ANALYST",
+      "domain": "M&A",
+      "experience": "0-2 yrs",
+      "location": "NOIDA",
+      "status": "ACTIVE"
+    },
+    {
+      "position_title": "ASSOCIATES",
+      "domain": "M&A",
+      "experience": "2-3 yrs",
+      "location": "NOIDA",
+      "status": "ACTIVE"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "Jobs": [
+    {
+      "sr": 1,
+      "bank": "Bank of Baroda"
+    },
+    {
+      "sr": 2,
+      "bank": "Punjab National Bank"
+    },
+    {
+      "sr": 3,
+      "bank": "Bank of Maharashtra"
+    },
+    {
+      "sr": 4,
+      "bank": "Oriental Bank of Commerce"
+    },
+    {
+      "sr": 5,
+      "bank": "Bank of India"
+    },
+    {
+      "sr": 6,
+      "bank": "Canara Bank"
+    },
+    {
+      "sr": 7,
+      "bank": "United Bank of India"
+    },
+    {
+      "sr": 8,
+      "bank": "Hardicon Limited (joint venture of Public Sector Banks & Financial Institutions) "
+    },
+    {
+      "sr": 9,
+      "bank": "UCO Bank"
+    },
+    {
+      "sr": 10,
+      "bank": "Housing And Urban Development Corporation Limited"
+    },
+    {
+      "sr": 11,
+      "bank": "Office of Principal Commissioner of Customs (Import)"
+    }
+  ]
+}
