@@ -1,14 +1,14 @@
 import Firebase from "firebase";
 
 const firebaseConfig = {
-  apiKey: process.env.REACT_APP_ENV_APIKEY,
-  authDomain: process.env.REACT_APP_ENV_AUTHDOMAIN,
-  databaseURL: process.env.REACT_APP_ENV_DB,
-  projectId: process.env.REACT_APP_ENV_PRJID,
-  storageBucket: process.env.REACT_APP_ENV_STORAGE,
-  messagingSenderId: process.env.REACT_APP_ENV_MSG,
-  appId: process.env.REACT_APP_ENV_APPID,
-  measurementId: process.env.REACT_APP_ENV_MEASURE,
+  apiKey: "AIzaSyCr8l8MKO69EAGcWH5Hd0kG_w0qp71EIoU",
+  authDomain: "sharma-associates-4d134.firebaseapp.com",
+  databaseURL: "https://sharma-associates-4d134.firebaseio.com",
+  projectId: "sharma-associates-4d134",
+  storageBucket: "sharma-associates-4d134.appspot.com",
+  messagingSenderId: "713000519881",
+  appId: "1:713000519881:web:58d79db8154b05c9f4e518",
+  measurementId: "G-9KL8D94RXS",
 };
 
 const FirebaseConfig = Firebase.initializeApp(firebaseConfig);
