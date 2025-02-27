@@ -500,7 +500,7 @@ function NavBar() {
             target="_blank"
             className="d-inline-flex align-items-center"
           >
-            <FaFilePdf size={20} color="#2d6aa0" />
+            <FaFilePdf size={22} color="#2d6aa0" />
             <span
               style={{
                 marginLeft: "5px",
