@@ -32,6 +32,7 @@ import { makeStyles } from "@material-ui/core/styles";
 import Popover from "@material-ui/core/Popover";
 import Typography from "@material-ui/core/Typography";
 import MenuItem from "@material-ui/core/MenuItem";
+import { FaFilePdf } from "react-icons/fa";
 
 import { images } from "../utils";
 import Footer from "./footer";
@@ -494,6 +495,22 @@ function NavBar() {
               onClick={() => (window.location.href = "/")}
             />
           </Navbar.Brand>
+          <Nav.Link
+            href={process.env.REACT_APP_PDF}
+            target="_blank"
+            className="d-inline-flex align-items-center"
+          >
+            <FaFilePdf size={20} color="#2d6aa0" />
+            <span
+              style={{
+                marginLeft: "5px",
+                color: "#2d6aa0",
+                fontWeight: "bold",
+              }}
+            >
+              Business Overview
+            </span>
+          </Nav.Link>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav
